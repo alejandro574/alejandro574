@@ -6,15 +6,14 @@
 
 ---
 
-💻 **Profesión:** Estudiante de Administración de Sistemas Informáticos en Red  
+💻  Estudiante de Administración de Sistemas Informáticos en Red  
 🚀 Apasionado por la tecnología y el mundo de los sistemas .  
 
 ---
 
 ## 🧑‍💻 Sobre mí
 - 🌱 Actualmente aprendiendo sobre administración de sistemas y redes  
-- 💼 Interesado en el desarrollo web y la gestión de infraestructuras TI  
- 
+
 
 ---
 
