@@ -1,4 +1,9 @@
-# 👋 ¡Hola! Soy Alejandro Martín Fernández
+# 👋 Alejandro Martín Fernández
+
+![Visitas](https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
+![Seguidores](https://img.shields.io/github/followers/TU-USUARIO?label=Seguidores&style=social)
+
+---
 
 💻 **Profesión:** Estudiante de Administración de Sistemas Informáticos en Red  
 🚀 Apasionado por la tecnología, el aprendizaje continuo y el mundo de los sistemas y el desarrollo web.  
@@ -28,4 +33,5 @@ pie title Lenguajes más usados
     "HTML" : 50
     "CSS" : 30
     "JavaScript" : 20
+
 
