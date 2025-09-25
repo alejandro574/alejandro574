@@ -7,15 +7,14 @@
 ---
 
 💻 **Profesión:** Estudiante de Administración de Sistemas Informáticos en Red  
-🚀 Apasionado por la tecnología, el aprendizaje continuo y el mundo de los sistemas y el desarrollo web.  
+🚀 Apasionado por la tecnología y el mundo de los sistemas .  
 
 ---
 
 ## 🧑‍💻 Sobre mí
 - 🌱 Actualmente aprendiendo sobre administración de sistemas y redes  
 - 💼 Interesado en el desarrollo web y la gestión de infraestructuras TI  
-- 🎯 Objetivo: crecer como profesional en el área de sistemas y desarrollo  
-- ⚡ Fun fact: me gusta combinar lo técnico con lo creativo 😄  
+ 
 
 ---
 
