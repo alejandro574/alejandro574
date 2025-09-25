@@ -1,7 +1,8 @@
 # 👋 Alejandro Martín Fernández
 
-![Visitas](https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
-![Seguidores](https://img.shields.io/github/followers/TU-USUARIO?label=Seguidores&style=social)
+![Visitas](https://komarev.com/ghpvc/?username=AlejandroMF&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
+![Seguidores](https://img.shields.io/github/followers/AlejandroMF?label=Seguidores&style=social)
+
 
 ---
 
